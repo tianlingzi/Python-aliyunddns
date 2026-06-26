@@ -1,3 +1,4 @@
+# 转移到新仓库：https://github.com/tianlingzi/aliyunddns
 # 阿里云 DDNS 脚本（IPv4/IPv6）
 
 一个基于阿里云解析（AliDNS）API 的动态域名解析脚本，自动获取本机公网 IP 并为指定主域名的子域名创建/更新解析记录。支持 IPv4 与 IPv6，内置多接口顺序尝试与超时控制，可配置重试次数。
